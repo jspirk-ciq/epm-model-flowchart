@@ -4,13 +4,13 @@ Overview of the interconnected models within a typical SaaS organization.
 **Layout logic — 7 horizontal layers, information flows upward:**
 
 Layer |Content
-Executive | Board Reporting, Scenario/What-If
-3-Statement | Corporate 3-Statement (single consolidation point)
-Corporate Finance | P&L, Cash Flow, Balance Sheet, LRP
-Revenue & Cost Roll-ups | ARR Bridge, Bookings, Commission Accrual, Churn, NRR, AR/AP, Cloud Hosting, Vendor Cost, PS Margin
-Functional Models | Quota & Capacity, Pipeline Gen/Attribution, Customer Health, Benefits & Comp, IT/SaaS
-Department Models | All dept hiring plans + OpEx models
-Foundational | Chart of Accounts, Facilities, Legal, R&D OpEx, Recruiting, Support Cost
+1. Executive | Board Reporting, Scenario/What-If
+2. 3-Statement | Corporate 3-Statement (single consolidation point)
+3. Corporate Finance | P&L, Cash Flow, Balance Sheet, LRP
+4. Revenue & Cost Roll-ups | ARR Bridge, Bookings, Commission Accrual, Churn, NRR, AR/AP, Cloud Hosting, Vendor Cost, PS Margin
+5. Functional Models | Quota & Capacity, Pipeline Gen/Attribution, Customer Health, Benefits & Comp, IT/SaaS
+6. Department Models | All dept hiring plans + OpEx models
+7. Foundational | Chart of Accounts, Facilities, Legal, R&D OpEx, Recruiting, Support Cost
 
 
 **Interactive features:**
