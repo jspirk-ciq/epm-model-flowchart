@@ -11,3 +11,11 @@ OpEx Aggregation (R&D OpEx, G&A OpEx, COGS Rollup, S&M OpEx)  ← NEW
        ↓
 Corporate P&L
 These intermediate models sit at the same visual tier as the Revenue Roll-ups — both streams converge on Corporate P&L. Revenue models anchor the left side of that tier; OpEx aggregation models anchor the right, visually separating the two flows before they merge.
+
+Interactive features:
+
+9 division toggles — click to isolate any division and see only its nodes + connected edges
+Zoom via scroll wheel or +/− buttons
+Pan by clicking and dragging the canvas
+Hover any node for full description, model type, and primary outputs
+Touch-friendly (pinch-to-zoom + swipe pan)
