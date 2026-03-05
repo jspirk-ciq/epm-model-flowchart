@@ -1,6 +1,9 @@
 # epm-model-flowchart
 Overview of the interconnected models within a typical SaaS organization. 
 
+Layout logic — 7 horizontal layers, information flows upward:
+LayerContentExecutiveBoard Reporting, Scenario/What-If3-StatementCorporate 3-Statement (single consolidation point)Corporate FinanceP&L, Cash Flow, Balance Sheet, LRPRevenue & Cost Roll-upsARR Bridge, Bookings, Commission Accrual, Churn, NRR, AR/AP, Cloud Hosting, Vendor Cost, PS MarginFunctional ModelsQuota & Capacity, Pipeline Gen/Attribution, Customer Health, Benefits & Comp, IT/SaaSDepartment ModelsAll dept hiring plans + OpEx modelsFoundationalChart of Accounts, Facilities, Legal, R&D OpEx, Recruiting, Support Cost
+
 1. Click-to-isolate — Clicking any node now dims everything not directly connected to it (nodes and edges both), highlights the node itself with a glow ring, and reveals all edge labels for its connections only. Click the same node again, the background, or the "✕ Clear" button to reset. The status bar shows the selected model's name + exact input/output count.
 2. Schema tooltip — Hovering any node opens a structured panel showing: division, model type, a description, and a proper Source Model → field_name → type table representing the data inputs that model consumes. This is the "Model:Field" data model view you asked for.
 3. Non-overlapping labels — Labels are completely hidden in the default state (clean diagram). They only appear when a node is selected and the connected edges are highlighted. This eliminates overlap entirely while surfacing label context exactly when it's useful.
